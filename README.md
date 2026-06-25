@@ -33,7 +33,7 @@ A clean, modular machine learning pipeline designed to predict human stress leve
 | **Languages** | Python, C# (.NET), R, SQL, TeX (LaTeX) |
 | **AI / Machine Learning** | PyTorch, Transformers, XGBoost, Scikit-learn, Support Vector Machines (SVM), TCN-SA, Hugging Face |
 | **Data Processing & OCR** | Pandas, NumPy, SciPy, docling (PDF parsing), PaddleOCR, OpenCV |
-| **Backend & Data Pipelines** | .NET Core, FastAPI, Uvicorn, Supabase, PostgreSQL, InfluxDB, Redis, MQTT (Mosquitto) |
+| **Backend & Data Pipelines** | .NET Core, FastAPI, Uvicorn, Supabase, PostgreSQL, InfluxDB, Redis, MQTT (Mosquitto), Grafana |
 | **DevOps & Tools** | Docker, Docker Compose, Git, GitHub Actions, UV, Ruff, VS Code |
 
 ---
