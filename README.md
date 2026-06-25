@@ -12,17 +12,17 @@ A state-of-the-art itinerary planner built with a custom Model Context Protocol 
 *   **Stack**: Python, SQLite, TeX (LaTeX documentation).
 *   **Key Feature**: Seamless integration with LLM agents using VSCode/Cursor MCP configurations, enabling a fully agentic workflow for travel planning.
 
-### 🧠 [Wrist-only WESAD Stress Prediction](https://github.com/Krim0k27/wesad-wrist-stress-prediction)
-A clean, modular machine learning pipeline designed to predict human stress levels using wrist-only biosignals.
-*   **Biosignal Processing**: Extracted physiological features including Heart Rate Variability (HRV) from Blood Volume Pulse (BVP) and Skin Conductance Responses (SCR) from Electrodermal Activity (EDA).
-*   **Robust Validation**: Implemented a subject-independent **Leave-One-Subject-Out (LOSO) Cross-Validation** scheme to prevent data leakage and ensure real-world generalization.
-*   **Modeling**: Benchmarked and optimized classifiers including **XGBoost**, **Support Vector Machines (SVM)**, and **Random Forests**.
-
 ### ⚡ [NILM Project (Non-Intrusive Load Monitoring)](https://github.com/Krim0k27/MTS3_MCTE_team_project_energy)
 A real-time energy disaggregation system designed to identify individual appliance consumption from an aggregate power signal.
 *   **Deep Learning**: Contributed the core machine learning models, implementing a **Temporal Convolutional Network with Self-Attention (TCN-SA)**.
 *   **Edge Optimization**: Deployed **XGBoost Classification** models optimized for edge hardware (Raspberry Pi 5) with a latency of 1-3 ms per sample.
 *   **Data Pipeline**: Integrated a real-time ingestion pipeline using **MQTT (Mosquitto)**, **Redis**, and a **Supabase** backend.
+
+### 🧠 [Wrist-only WESAD Stress Prediction](https://github.com/Krim0k27/wesad-wrist-stress-prediction)
+A clean, modular machine learning pipeline designed to predict human stress levels using wrist-only biosignals.
+*   **Biosignal Processing**: Extracted physiological features including Heart Rate Variability (HRV) from Blood Volume Pulse (BVP) and Skin Conductance Responses (SCR) from Electrodermal Activity (EDA).
+*   **Robust Validation**: Implemented a subject-independent **Leave-One-Subject-Out (LOSO) Cross-Validation** scheme to prevent data leakage and ensure real-world generalization.
+*   **Modeling**: Benchmarked and optimized classifiers including **XGBoost**, **Support Vector Machines (SVM)**, and **Random Forests**.
 
 ---
 
