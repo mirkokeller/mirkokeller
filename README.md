@@ -19,7 +19,7 @@ A real-time energy disaggregation system designed to identify individual applian
 *   **Data Pipeline**: Integrated a real-time ingestion pipeline using **MQTT (Mosquitto)**, **Redis**, and a **Supabase** backend.
 *   **Frontend**: Built a React-based dashboard for real-time telemetry visualization.
 
-### 🚗 [Autoscuola SaaS (scuola-guida-planner)](https://github.com/Krim0k27/scuola-guida-planner)
+### 🚗 Autoscuola SaaS Planner (Private Repository)
 A full-stack driving school management platform designed for optimized student scheduling in Ticino, Switzerland.
 *   **AI Planner**: Implemented an intelligent planning agent (`llm_agent.py` using Groq Llama 3.3) following the **ReAct** pattern, featuring JSON self-correction and geolocation-based slot scoring.
 *   **Stack**: FastAPI (Python), PostgreSQL (Supabase), React, Docker, Docker Compose.
