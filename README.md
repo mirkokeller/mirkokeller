@@ -9,7 +9,7 @@ Data Scientist and Machine Learning Engineer specializing in AI Agentic Architec
 ### 🗺️ [Swiss AI Travel Planner](https://github.com/Krim0k27/Swiss-AI-Travel-Planner)
 A state-of-the-art itinerary planner built with a custom Model Context Protocol (MCP) server and agentic AI.
 *   **Core Architecture**: Developed a custom Python MCP server (`mcp_server/server.py`) that exposes travel planning tools directly to LLMs, enabling autonomous routing and itinerary generation.
-*   **Stack**: Python, SQLite, TeX (LaTeX documentation).
+*   **Stack**: Python, SQLite.
 *   **Key Feature**: Seamless integration with LLM agents using VSCode/Cursor MCP configurations, enabling a fully agentic workflow for travel planning.
 
 ### ⚡ [NILM Project (Non-Intrusive Load Monitoring)](https://github.com/Krim0k27/MTS3_MCTE_team_project_energy)
@@ -30,7 +30,7 @@ A clean, modular machine learning pipeline designed to predict human stress leve
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, R, SQL, TeX (LaTeX) |
+| **Languages** | Python, R, SQL |
 | **AI / Machine Learning** | Deep Learning (ANN, CNN, RNN, Attention), Classical Machine Learning (Ensembles, SVM, Linear/Non-linear Models), PyTorch, Transformers, Scikit-learn, Hugging Face |
 | **Data Processing & OCR** | Pandas, NumPy, SciPy, docling (PDF parsing), PaddleOCR, OpenCV |
 | **Backend & Data Pipelines** | FastAPI, Uvicorn, Supabase, PostgreSQL, InfluxDB, Redis, MQTT (Mosquitto), Grafana |
