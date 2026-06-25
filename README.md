@@ -31,7 +31,7 @@ A clean, modular machine learning pipeline designed to predict human stress leve
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, R, SQL |
-| **AI / Machine Learning** | Deep Learning (ANN, CNN, RNN, Attention), Classical Machine Learning (Ensembles, SVM, Linear/Non-linear Models), PyTorch, Transformers, Scikit-learn, Hugging Face |
+| **AI / Machine Learning** | Deep Learning, Reinforcement Learning, Generative AI & Large Language Models (RAG, Agentic Workflows), Classical Machine Learning (Ensembles, SVM, Linear/Non-linear Models), PyTorch, Transformers, Scikit-learn, Hugging Face |
 | **Data Processing & OCR** | Pandas, NumPy, SciPy, docling (PDF parsing), PaddleOCR, OpenCV |
 | **Backend & Data Pipelines** | FastAPI, Uvicorn, Supabase, PostgreSQL, InfluxDB, Redis, MQTT (Mosquitto), Grafana |
 | **DevOps & Tools** | Docker, DevOps, Git, GitHub Actions, UV, Ruff, VS Code |
